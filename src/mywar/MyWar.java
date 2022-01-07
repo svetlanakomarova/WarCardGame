@@ -13,7 +13,6 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- * This class +++Insert Description Here+++
  *
  * @author Svetlana Komarova
  */
