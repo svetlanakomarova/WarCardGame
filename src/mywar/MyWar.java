@@ -27,7 +27,7 @@ public class MyWar {
         Scanner in = new Scanner(System.in);
         players = new ArrayList<>();
         
-        //TODO - players 
+        // create players 
         System.out.print("Enter a name for Player1:");
         String name1 = in.nextLine();
         System.out.print("Enter a name for Player2:");
